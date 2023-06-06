@@ -13,5 +13,5 @@ function penjumlahan(a,b){
     console.log(a+b)
 }
 
-penjumlahan(1,2)
+penjumlahan(1,5)
 penjumlahan(2,3)
