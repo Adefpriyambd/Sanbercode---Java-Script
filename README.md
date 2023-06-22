@@ -1,11 +1,12 @@
-# Sanbercode---Java-Script
-Tutorial Basic Java Script
+### Introduce of JavaScript
+--- 
+#### Basic Java Script Example
 
-Dimana dalam Progam ini terdapat beberapa contoh program java Script Sederhana seperti :
-1. Perulangan
-2. Percabangan
-3. Fungsi
-4. Objectt
-5. Struktur data
-
-Dalam Program Java Script Conlose.log() berfungsi untuk menampilkan teks
+#### Where in this program there are several examples of simple java script programs such as :
+##### 1. Loop
+##### 2. Branching
+##### 3. Function
+##### 4. Objectt
+##### 5. Data structures
+--- 
+#### In the Java Script Program, Conlose.log() functions to display text
