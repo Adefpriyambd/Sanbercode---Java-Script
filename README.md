@@ -1,7 +1,6 @@
 ### Introduce of JavaScript
+#### Basic Java Script for Example
 --- 
-#### Basic Java Script Example
-
 #### Where in this program there are several examples of simple java script programs such as :
 ##### 1. Loop
 ##### 2. Branching
